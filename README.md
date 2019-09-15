@@ -26,8 +26,10 @@ Pythonを読める人なら、option_listに拡張子を、option_dictに{拡張
 
 例：
 
+```
  option_list.append(".txt")
  option_dict[".txt"] = "SystemFileAssociations\\.txt"
+```
 
 項目を消す場合には必ず、消すType項目のコンテキストメニューを全て削除することを推奨する。
 削除方法は下記参照。
