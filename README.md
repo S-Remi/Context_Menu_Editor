@@ -21,7 +21,7 @@ add 部分の
  - "back"   : ファイル、フォルダのない場所を選択した場合にコンテキストメニューを表示する。
  - ".py"    : .pyファイルを選択した場合にコンテキストメニューを表示する。
 
-Pythonを読める人なら、option_listに拡張子を、option_dictに{拡張子:"SystemFileAssociations\\拡張子"}
+Pythonを読める人なら、option_listに拡張子を、option_dictに{拡張子:"SystemFileAssociations\\\\拡張子"}
 を追加するとType項目が増える。
 
 例：
